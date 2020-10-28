@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋  name's Arnav - Welcome to my Page!
 
-<!--
-**Arnavkar/Arnavkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ [![Instagram Badge](https://img.shields.io/badge/-@arnavkar-5851DB?style=flat-square&labelColor=5851DB&logo=instagram&logoColor=white&link=https://www.instagram.com/arnavkar)](https://www.instagram.com/arnavkar) [![Linkedin Badge](https://img.shields.io/badge/-ArnavShirodkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnav-shirodkar/)](https://www.linkedin.com/in/arnav-shirodkar/)
+[![Gmail Badge](https://img.shields.io/badge/-arnavshirodkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnavshirodkar@gmail.com)](mailto:arnavshirodkar.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

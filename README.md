@@ -1,4 +1,5 @@
-<h1 align='center'>Hi there  👋  My name's Arnav - Welcome to my Page!</h1> 
+
+<h1 align="center">Hi there 👋 Arnav here - Welcome to my Page!</h1>
 
 <div align='center'>
 

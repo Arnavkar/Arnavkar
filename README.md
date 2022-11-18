@@ -32,7 +32,7 @@
 <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="50" height="50"/>
 <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="selenium" width="50" height="50"/>
 <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="100" height="50"/>
-<img src="https://img.icons8.com/wired/64/000000/postman-api.png" alt="postman" width="50" height="50"/>
+<img src="https://icons8.com/icon/IoYmHUxgvrFB/postman-is-the-only-complete-api-development-environment" alt="postman" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="50" height="50"/>
 </div>
  

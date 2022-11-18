@@ -12,7 +12,8 @@
 </div>
 
 <div align='center'>
-<img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"</img>
+<img src="https://user-images.githubusercontent.com/66931126/202591372-97f0601c-2ff4-4bea-9d19-7ed3a15602b7.png" alt="Swift" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="js" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="40" height="40"/>
@@ -23,17 +24,19 @@
 <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="50" height= "50"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 </div>
 
 <div align='center'>
 <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/66931126/202591533-86de793a-3fff-4019-9edd-85263e2114a2.png" alt="AWS" width="50" height"50"/>
+
 <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="selenium" width="50" height="50"/>
 <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="100" height="50"/>
-<img src="https://icons8.com/icon/IoYmHUxgvrFB/postman-is-the-only-complete-api-development-environment" alt="postman" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/66931126/202590278-444beb86-1dbc-481d-a0fa-3876a1e96447.png" alt="postman" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="50" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/31670619?s=200&v=4" alt="great_expectations" width="50" height="50"/>
 </div>
  
 <div align='center'>

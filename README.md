@@ -6,7 +6,6 @@
 ## Quick Facts
 - Double-Degree Student at Bard College (B.A / B.M) 
 - I'm a percussionist (I smack stuff!) — Check out some concerts [here](https://www.facebook.com/bardpercussion/)
-- Currently interested in Blockchain Development and NFTs  
 - I started writing on [Medium](https://medium.com/@arnavshirodkar)!
 ## What I'm proficient in
 </div>
